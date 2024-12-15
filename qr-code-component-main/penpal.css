@@ -1,0 +1,263 @@
+@font-face {
+    font-family: 'sourcesanspro';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(https://design.penpot.app/fonts/sourcesanspro-regular.woff) format('woff');
+  }
+@font-face {
+    font-family: 'sourcesanspro';
+    font-style: normal;
+    font-weight: bold;
+    font-display: block;
+    src: url(https://design.penpot.app/fonts/sourcesanspro-bold.woff) format('woff');
+  }
+
+html, body {
+  margin: 0;
+  min-height: 100%;
+  min-width: 100%;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.text-node { background-clip: text !important; -webkit-background-clip: text !important; }
+
+/* Scan the QR code to visit Frontend Mentor and take your coding skills to 
+the next level */
+.scan-the-q-6bedd66aaad1 {
+  position: absolute;
+  left: 339px;
+  top: 590px;
+  width: 300px;
+  height: 34px;
+}
+.scan-the-q-6bedd66aaad1 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.scan-the-q-6bedd66aaad1 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.scan-the-q-6bedd66aaad1 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.scan-the-q-6bedd66aaad1 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: 400;
+}
+.scan-the-q-6bedd66aaad1 .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.scan-the-q-6bedd66aaad1 .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Improve your front-end 
+skills by building projects */
+.improve-yo-6bed6d929b57 {
+  position: absolute;
+  left: 339px;
+  top: 529px;
+  width: 300px;
+  height: 34px;
+}
+.improve-yo-6bed6d929b57 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.improve-yo-6bed6d929b57 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.improve-yo-6bed6d929b57 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.improve-yo-6bed6d929b57 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: bold;
+}
+.improve-yo-6bed6d929b57 .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.improve-yo-6bed6d929b57 .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "sourcesanspro";
+  font-style: normal;
+  font-weight: bold;
+}
+
+/* Group */
+.group-6bee7d6c3430 {
+  position: absolute;
+  left: 339px;
+  top: 217px;
+  width: 300px;
+  height: 301px;
+}
+
+/* Mask */
+.mask-6beef07514bf > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-6beef07514bf {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 300px;
+  height: 301px;
+}
+
+/* Rectangle */
+.rectangle-6bed23a19f5a {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 300px;
+  height: 301px;
+  background: rgba(2, 53, 141, 0.835);
+  border-radius: 15px;
+}
+
+/* Ellipse */
+.ellipse-6befcd1bedbc {
+  position: absolute;
+  left: -113px;
+  top: -96px;
+  width: 316px;
+  height: 193px;
+  background: rgba(177, 178, 181, 0.215);
+  border-radius: 50%;
+}
+
+/* Ellipse */
+.ellipse-6bee868804ef {
+  position: absolute;
+  left: 118px;
+  top: 220px;
+  width: 310px;
+  height: 193px;
+  background: rgba(177, 178, 181, 0.215);
+  border-radius: 50%;
+}
+
+/* Rectangle */
+.rectangle-6beee4f501bd {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 300px;
+  height: 301px;
+  background: #02358D;
+  border-radius: 15px;
+}
+
+/* Rectangle */
+.rectangle-6bef4e364fcc {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 300px;
+  height: 301px;
+  background: #02358D;
+  border-radius: 15px;
+}
+
+/* Rectangle */
+.rectangle-6bef80efc92e {
+  position: absolute;
+  left: 326px;
+  top: 203px;
+  width: 326px;
+  height: 484px;
+  background: #FCFDFE;
+  border-radius: 15px;
+}
