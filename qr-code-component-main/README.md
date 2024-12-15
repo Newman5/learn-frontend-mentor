@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![screenshot.png](./images/Screenshot 2024-12-15 qrcode.png)
+![screenshot.png](/images/Screenshot 2024-12-15 qrcode.png)
 
 I am not sure if the screenshot will work. The preview extension markdown preview enhancedis what I'm using to preview the markdown in VS code and it does not seem to be showingthe screenshot. I will upload it and see if it renders correctly in Github
 
