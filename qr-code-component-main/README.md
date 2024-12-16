@@ -54,6 +54,8 @@ Creating a simple card is how modern web development is done so right off the ba
 ### Useful resources
 
 I used a Brad TraverseC tailwindCSS tutorialto guideme and thetailwindCss.com documentation.
+https://tailwindcss.com/docs/line-height
+
 
 ## Author
 
